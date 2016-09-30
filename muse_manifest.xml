@@ -1,0 +1,322 @@
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" ftp_hostname="ftp://588.bc2.myftpupload.com" ftp_rootfolder="//" exportTarget="FTP" domain="http://flemingphotodesign.com" resolutions="1x,2x" timestamp="1468882595348">
+  <folder name="assets">
+    <file name="untitled-3.png" crc="353509865" seo="true" mt="1459464572000"/>
+    <file name="small.png" crc="113085077" seo="true" mt="1468882273000"/>
+    <file name="small2.png" crc="3979638277" seo="true" mt="1468882447000"/>
+    <file name="100.png" crc="469742326" seo="true" mt="1468882552000"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="3843262392"/>
+    <file name="master_a-master.css" crc="61056257" ref="design:photo:about:video:contact"/>
+    <file name="nomq_preview_master_a-master.css" crc="185360364" ref="design:photo:about:video:contact"/>
+    <file name="design.css" crc="436914462" ref="design"/>
+    <file name="nomq_design.css" crc="4253798533" ref="design"/>
+    <file name="photo.css" crc="6892344" ref="photo"/>
+    <file name="nomq_photo.css" crc="89660911" ref="photo"/>
+    <file name="about.css" crc="3840368565" ref="about"/>
+    <file name="nomq_about.css" crc="4211280818" ref="about"/>
+    <file name="video.css" crc="410220888" ref="video"/>
+    <file name="nomq_video.css" crc="3789549302" ref="video"/>
+    <file name="index.css" crc="4244791890" ref="index"/>
+    <file name="nomq_index.css" crc="3936584790" ref="index"/>
+    <file name="contact.css" crc="3887545045" ref="contact"/>
+    <file name="nomq_contact.css" crc="3908021528" ref="contact"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:about:photo:video:contact:design"/>
+    <file name="museutils.js" crc="3790713428" ref="index:about:photo:video:contact:design"/>
+    <file name="whatinput.js" crc="84559013" ref="index:about:photo:video:contact:design"/>
+    <file name="webpro.js" crc="329496574" ref="index:about:photo:video:contact:design"/>
+    <file name="musewpslideshow.js" crc="394033048" ref="index:about:photo:video:contact:design"/>
+    <file name="jquery.museoverlay.js" crc="4265131668" ref="index:about:photo:video:contact:design"/>
+    <file name="touchswipe.js" crc="497316881" ref="index:about:photo:video:contact:design"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:about:photo:video:contact:design"/>
+    <file name="jquery.museresponsive.js" crc="3895133147" ref="index:about:photo:video:contact:design"/>
+    <file name="pie.js" crc="3827607177" ref="about:contact:design"/>
+    <file name="musewpdisclosure.js" crc="4234230767" ref="about:photo:video:contact:design"/>
+    <file name="form_check.php" crc="3805695515" ref="contact"/>
+    <file name="form_throttle.php" crc="3802629389" ref="contact"/>
+    <file name="form_process.php" crc="54267062" ref="contact"/>
+    <file name="form-u16924.php" crc="3810630643" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="063f6991-fbf8-403a-98f5-9dc508b407b4.jpg" crc="4219694043" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:about:photo:video:contact:design"/>
+    <file name="777103cd-96c2-4987-9873-e6a2837f21a7.jpg" crc="20993084" seo="true" ref="index"/>
+    <file name="d8b96ddc-5e98-4c41-b882-7f318ff559a1.jpg" crc="102849835" seo="true" ref="index"/>
+    <file name="f18bdf06-d7ae-46c2-8b3a-8d997bc2c9f6.jpg" crc="336780378" seo="true" ref="index"/>
+    <file name="psfinalproject_fleming.jpg" crc="4229336335" seo="true" ref="index"/>
+    <file name="steve sunset2 copy.jpg" crc="451245502" seo="true" ref="index"/>
+    <file name="tumblr_nq0e0p90aj1u60rr0o1_1280.jpg" crc="3938105696" seo="true" ref="index"/>
+    <file name="tumblr_nq0e0p90aj1u60rr0o2_r1_1280.jpg" crc="349445988" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index:about:photo:design:contact"/>
+    <file name="f-bl-pu-01-01.svg" crc="498447490" ref="index:about:photo:video:contact:design"/>
+    <file name="f bl-pu-01-01_poster_.png" crc="3872746414" ref="index:about:contact"/>
+    <file name="f-bl-pu-01.svg" crc="4032400587" ref="about:photo:video:contact:design"/>
+    <file name="f bl-pu-01_poster_.png" crc="3872746414" ref="about:contact:design"/>
+    <file name="f-blue-green-01.svg" crc="4191140991" ref="about:photo:video:contact:design"/>
+    <file name="f blue green-01_poster_.png" crc="55288963" ref="about:contact:design"/>
+    <file name="f.svg" crc="295376779" ref="about:photo:video:contact:design"/>
+    <file name="f_poster_.png" crc="4206444163" ref="about:contact:design"/>
+    <file name="f3.svg" crc="205190728" ref="about:photo:video:contact:design"/>
+    <file name="f3_poster_.png" crc="42971263" ref="about:contact:design"/>
+    <file name="f2.svg" crc="428541440" ref="about:photo:video:contact:design"/>
+    <file name="f2_poster_.png" crc="4117992742" ref="about:contact:design"/>
+    <file name="f4.svg" crc="392706520" ref="about:photo:video:contact:design"/>
+    <file name="f4_poster_.png" crc="359294749" ref="about:contact:design"/>
+    <file name="f5.svg" crc="447584385" ref="about:photo:video:contact:design"/>
+    <file name="f5_poster_.png" crc="3954548312" ref="about:contact:design"/>
+    <file name="me.png" crc="448869836" seo="true" ref="about"/>
+    <file name="me_2x.png" crc="198704045" seo="true" ref="about"/>
+    <file name="f52.svg" crc="110995995" ref="about:photo:video:contact:design"/>
+    <file name="f5_poster_2.png" crc="353470549" ref="about:contact:design"/>
+    <file name="ico_ham.svg" crc="4053028479" ref="about:contact:design"/>
+    <file name="ico_ham_poster_u17186.png" crc="11301426" ref="about:contact:design"/>
+    <file name="ico_ham_close.svg" crc="339092188" ref="about:contact:design"/>
+    <file name="ico_ham_close_poster_u17179.png" crc="4203631480" ref="about:contact:design"/>
+    <file name="me171x171.png" crc="3825476027" seo="true" ref="about"/>
+    <file name="me171x171_2x.png" crc="330540733" seo="true" ref="about"/>
+    <file name="tumblr_o3bl0ryjuz1v8xo9co1_r1_1280.jpg" crc="3904750896" seo="true" ref="photo"/>
+    <file name="tumblr_o3bl0ryjuz1v8xo9co1_r1_1280_2x.jpg" crc="4147177436" seo="true" ref="photo"/>
+    <file name="tumblr_o3bl0ryjuz1v8xo9co2_1280.jpg" crc="63823815" seo="true" ref="photo"/>
+    <file name="tumblr_o3bl0ryjuz1v8xo9co2_1280_2x.jpg" crc="498112368" seo="true" ref="photo"/>
+    <file name="tumblr_o2t8r5an0g1v8xo9co1_1280.jpg" crc="266888197" seo="true" ref="photo"/>
+    <file name="tumblr_o2t8r5an0g1v8xo9co1_1280_2x.jpg" crc="282029261" seo="true" ref="photo"/>
+    <file name="tumblr_o2t8r5an0g1v8xo9co2_1280.jpg" crc="459787923" seo="true" ref="photo"/>
+    <file name="tumblr_o2t8r5an0g1v8xo9co2_1280_2x.jpg" crc="168474059" seo="true" ref="photo"/>
+    <file name="tumblr_o2t8r5an0g1v8xo9co3_1280.jpg" crc="4132492962" seo="true" ref="photo"/>
+    <file name="tumblr_o2t8r5an0g1v8xo9co3_1280_2x.jpg" crc="125092764" seo="true" ref="photo"/>
+    <file name="tumblr_o2mda6tomi1v8xo9co1_1280.jpg" crc="3765725299" seo="true" ref="photo"/>
+    <file name="tumblr_o2mda6tomi1v8xo9co1_1280_2x.jpg" crc="483436735" seo="true" ref="photo"/>
+    <file name="tumblr_o2mda6tomi1v8xo9co2_1280.jpg" crc="4282614518" seo="true" ref="photo"/>
+    <file name="tumblr_o2mda6tomi1v8xo9co2_1280_2x.jpg" crc="4281654687" seo="true" ref="photo"/>
+    <file name="tumblr_o2mda6tomi1v8xo9co3_1280.jpg" crc="446731587" seo="true" ref="photo"/>
+    <file name="tumblr_o2mda6tomi1v8xo9co3_1280_2x.jpg" crc="4119494094" seo="true" ref="photo"/>
+    <file name="tumblr_o2md6nbsip1v8xo9co1_1280.jpg" crc="3813656851" seo="true" ref="photo"/>
+    <file name="tumblr_o2md6nbsip1v8xo9co1_1280_2x.jpg" crc="84618720" seo="true" ref="photo"/>
+    <file name="tumblr_o2md6nbsip1v8xo9co2_1280.jpg" crc="3816161426" seo="true" ref="photo"/>
+    <file name="tumblr_o2md6nbsip1v8xo9co2_1280_2x.jpg" crc="3779268547" seo="true" ref="photo"/>
+    <file name="tumblr_o2md6nbsip1v8xo9co3_1280.jpg" crc="374099041" seo="true" ref="photo"/>
+    <file name="tumblr_o2md6nbsip1v8xo9co3_1280_2x.jpg" crc="4269835947" seo="true" ref="photo"/>
+    <file name="tumblr_o2md6nbsip1v8xo9co4_1280.jpg" crc="104133526" seo="true" ref="photo"/>
+    <file name="tumblr_o2md6nbsip1v8xo9co4_1280_2x.jpg" crc="153375154" seo="true" ref="photo"/>
+    <file name="headshot2.jpg" crc="3984467550" seo="true" ref="photo"/>
+    <file name="headshot2_2x.jpg" crc="302148617" seo="true" ref="photo"/>
+    <file name="tumblr_o2md4d5imi1v8xo9co2_1280.jpg" crc="417038151" seo="true" ref="photo"/>
+    <file name="tumblr_o2md4d5imi1v8xo9co2_1280_2x.jpg" crc="3821144376" seo="true" ref="photo"/>
+    <file name="tumblr_o2md4d5imi1v8xo9co3_540.jpg" crc="4079051684" seo="true" ref="photo"/>
+    <file name="tumblr_o2md4d5imi1v8xo9co3_540_2x.jpg" crc="335855746" seo="true" ref="photo"/>
+    <file name="tumblr_o2md4d5imi1v8xo9co4_1280.jpg" crc="3819364251" seo="true" ref="photo"/>
+    <file name="tumblr_o2md4d5imi1v8xo9co4_1280_2x.jpg" crc="4109572296" seo="true" ref="photo"/>
+    <file name="tumblr_o2md2kdzh41v8xo9co1_1280.jpg" crc="119445566" seo="true" ref="photo"/>
+    <file name="tumblr_o2md2kdzh41v8xo9co1_1280_2x.jpg" crc="3786309304" seo="true" ref="photo"/>
+    <file name="tumblr_o2md2kdzh41v8xo9co2_1280.jpg" crc="3950659047" seo="true" ref="photo"/>
+    <file name="tumblr_o2md2kdzh41v8xo9co2_1280_2x.jpg" crc="36017350" seo="true" ref="photo"/>
+    <file name="img_9213.jpg" crc="4235253404" seo="true" ref="photo"/>
+    <file name="img_9213_2x.jpg" crc="3892527069" seo="true" ref="photo"/>
+    <file name="tumblr_o2md1jk24r1v8xo9co1_1280.jpg" crc="4185177573" seo="true" ref="photo"/>
+    <file name="tumblr_o2md1jk24r1v8xo9co1_1280_2x.jpg" crc="3998675183" seo="true" ref="photo"/>
+    <file name="tumblr_o2md1jk24r1v8xo9co2_1280.jpg" crc="209894411" seo="true" ref="photo"/>
+    <file name="tumblr_o2md1jk24r1v8xo9co2_1280_2x.jpg" crc="486904517" seo="true" ref="photo"/>
+    <file name="tumblr_o2mcx2d7gc1v8xo9co1_1280.jpg" crc="62164595" seo="true" ref="photo"/>
+    <file name="tumblr_o2mcx2d7gc1v8xo9co1_1280_2x.jpg" crc="261743991" seo="true" ref="photo"/>
+    <file name="tumblr_o2mcx2d7gc1v8xo9co2_1280.jpg" crc="3873277522" seo="true" ref="photo"/>
+    <file name="tumblr_o2mcx2d7gc1v8xo9co2_1280_2x.jpg" crc="4162089452" seo="true" ref="photo"/>
+    <file name="tumblr_o2t8r5an0g1v8xo9co3_1280571x380.jpg" crc="4054546721" seo="true" ref="photo"/>
+    <file name="tumblr_o2t8r5an0g1v8xo9co3_1280571x380_2x.jpg" crc="119821463" seo="true" ref="photo"/>
+    <file name="tumblr_o2mda6tomi1v8xo9co1_1280571x380.jpg" crc="231502259" seo="true" ref="photo"/>
+    <file name="tumblr_o2mda6tomi1v8xo9co1_1280571x380_2x.jpg" crc="3918357444" seo="true" ref="photo"/>
+    <file name="tumblr_o2mda6tomi1v8xo9co2_1280571x380.jpg" crc="354558607" seo="true" ref="photo"/>
+    <file name="tumblr_o2mda6tomi1v8xo9co2_1280571x380_2x.jpg" crc="3970202747" seo="true" ref="photo"/>
+    <file name="tumblr_o2mda6tomi1v8xo9co3_1280570x380.jpg" crc="214161539" seo="true" ref="photo"/>
+    <file name="tumblr_o2mda6tomi1v8xo9co3_1280570x380_2x.jpg" crc="4067333417" seo="true" ref="photo"/>
+    <file name="tumblr_o2md6nbsip1v8xo9co1_1280254x380.jpg" crc="4148919442" seo="true" ref="photo"/>
+    <file name="tumblr_o2md6nbsip1v8xo9co1_1280254x380_2x.jpg" crc="191078677" seo="true" ref="photo"/>
+    <file name="tumblr_o2md6nbsip1v8xo9co2_1280254x380.jpg" crc="408979057" seo="true" ref="photo"/>
+    <file name="tumblr_o2md6nbsip1v8xo9co2_1280254x380_2x.jpg" crc="4280355357" seo="true" ref="photo"/>
+    <file name="tumblr_o2md6nbsip1v8xo9co3_1280571x380.jpg" crc="195910394" seo="true" ref="photo"/>
+    <file name="tumblr_o2md6nbsip1v8xo9co3_1280571x380_2x.jpg" crc="18445136" seo="true" ref="photo"/>
+    <file name="tumblr_o2md6nbsip1v8xo9co4_1280571x380.jpg" crc="3907400569" seo="true" ref="photo"/>
+    <file name="tumblr_o2md6nbsip1v8xo9co4_1280571x380_2x.jpg" crc="3795905112" seo="true" ref="photo"/>
+    <file name="headshot2254x380.jpg" crc="3907422386" seo="true" ref="photo"/>
+    <file name="headshot2254x380_2x.jpg" crc="4039998352" seo="true" ref="photo"/>
+    <file name="tumblr_o2md4d5imi1v8xo9co2_1280254x380.jpg" crc="454588247" seo="true" ref="photo"/>
+    <file name="tumblr_o2md4d5imi1v8xo9co2_1280254x380_2x.jpg" crc="4181234083" seo="true" ref="photo"/>
+    <file name="tumblr_o2md4d5imi1v8xo9co4_1280254x380.jpg" crc="3886680730" seo="true" ref="photo"/>
+    <file name="tumblr_o2md4d5imi1v8xo9co4_1280254x380_2x.jpg" crc="489754654" seo="true" ref="photo"/>
+    <file name="tumblr_o2md2kdzh41v8xo9co1_1280571x380.jpg" crc="437015138" seo="true" ref="photo"/>
+    <file name="tumblr_o2md2kdzh41v8xo9co1_1280571x380_2x.jpg" crc="142865837" seo="true" ref="photo"/>
+    <file name="tumblr_o2md2kdzh41v8xo9co2_1280253x380.jpg" crc="4270960824" seo="true" ref="photo"/>
+    <file name="tumblr_o2md2kdzh41v8xo9co2_1280253x380_2x.jpg" crc="4197843083" seo="true" ref="photo"/>
+    <file name="img_9213254x380.jpg" crc="3884610861" seo="true" ref="photo"/>
+    <file name="img_9213254x380_2x.jpg" crc="319668619" seo="true" ref="photo"/>
+    <file name="tumblr_o2md1jk24r1v8xo9co1_1280571x380.jpg" crc="416677660" seo="true" ref="photo"/>
+    <file name="tumblr_o2md1jk24r1v8xo9co1_1280571x380_2x.jpg" crc="379082538" seo="true" ref="photo"/>
+    <file name="tumblr_o2md1jk24r1v8xo9co2_1280254x380.jpg" crc="3783420523" seo="true" ref="photo"/>
+    <file name="tumblr_o2md1jk24r1v8xo9co2_1280254x380_2x.jpg" crc="203398925" seo="true" ref="photo"/>
+    <file name="tumblr_o2mcx2d7gc1v8xo9co1_1280571x380.jpg" crc="402625980" seo="true" ref="photo"/>
+    <file name="tumblr_o2mcx2d7gc1v8xo9co1_1280571x380_2x.jpg" crc="4154125253" seo="true" ref="photo"/>
+    <file name="tumblr_o2mcx2d7gc1v8xo9co2_1280254x380.jpg" crc="480274729" seo="true" ref="photo"/>
+    <file name="tumblr_o2mcx2d7gc1v8xo9co2_1280254x380_2x.jpg" crc="96173366" seo="true" ref="photo"/>
+    <file name="tumblr_o3bl0ryjuz1v8xo9co1_r1_1280245x327.jpg" crc="430079635" seo="true" ref="photo"/>
+    <file name="tumblr_o3bl0ryjuz1v8xo9co1_r1_1280245x327_2x.jpg" crc="3786253479" seo="true" ref="photo"/>
+    <file name="tumblr_o3bl0ryjuz1v8xo9co2_1280261x327.jpg" crc="270279289" seo="true" ref="photo"/>
+    <file name="tumblr_o3bl0ryjuz1v8xo9co2_1280261x327_2x.jpg" crc="3860195068" seo="true" ref="photo"/>
+    <file name="tumblr_o2t8r5an0g1v8xo9co1_1280197x295.jpg" crc="389357507" seo="true" ref="photo"/>
+    <file name="tumblr_o2t8r5an0g1v8xo9co1_1280197x295_2x.jpg" crc="4213016546" seo="true" ref="photo"/>
+    <file name="tumblr_o2t8r5an0g1v8xo9co2_1280197x295.jpg" crc="465092439" seo="true" ref="photo"/>
+    <file name="tumblr_o2t8r5an0g1v8xo9co2_1280197x295_2x.jpg" crc="337194525" seo="true" ref="photo"/>
+    <file name="tumblr_o2t8r5an0g1v8xo9co3_1280442x295.jpg" crc="3759542414" seo="true" ref="photo"/>
+    <file name="tumblr_o2t8r5an0g1v8xo9co3_1280442x295_2x.jpg" crc="299029864" seo="true" ref="photo"/>
+    <file name="tumblr_o2mda6tomi1v8xo9co1_1280442x295.jpg" crc="3898813225" seo="true" ref="photo"/>
+    <file name="tumblr_o2mda6tomi1v8xo9co1_1280442x295_2x.jpg" crc="4077566980" seo="true" ref="photo"/>
+    <file name="tumblr_o2mda6tomi1v8xo9co2_1280442x295.jpg" crc="4098778010" seo="true" ref="photo"/>
+    <file name="tumblr_o2mda6tomi1v8xo9co2_1280442x295_2x.jpg" crc="82746964" seo="true" ref="photo"/>
+    <file name="tumblr_o2mda6tomi1v8xo9co3_1280441x295.jpg" crc="168523976" seo="true" ref="photo"/>
+    <file name="tumblr_o2mda6tomi1v8xo9co3_1280441x295_2x.jpg" crc="312277612" seo="true" ref="photo"/>
+    <file name="tumblr_o2md6nbsip1v8xo9co1_1280197x295.jpg" crc="3980415589" seo="true" ref="photo"/>
+    <file name="tumblr_o2md6nbsip1v8xo9co1_1280197x295_2x.jpg" crc="4090331814" seo="true" ref="photo"/>
+    <file name="tumblr_o2md6nbsip1v8xo9co2_1280197x295.jpg" crc="3938585356" seo="true" ref="photo"/>
+    <file name="tumblr_o2md6nbsip1v8xo9co2_1280197x295_2x.jpg" crc="351169117" seo="true" ref="photo"/>
+    <file name="tumblr_o2md6nbsip1v8xo9co3_1280442x295.jpg" crc="3850396644" seo="true" ref="photo"/>
+    <file name="tumblr_o2md6nbsip1v8xo9co3_1280442x295_2x.jpg" crc="494628774" seo="true" ref="photo"/>
+    <file name="tumblr_o2md6nbsip1v8xo9co4_1280442x295.jpg" crc="4113753223" seo="true" ref="photo"/>
+    <file name="tumblr_o2md6nbsip1v8xo9co4_1280442x295_2x.jpg" crc="4110595704" seo="true" ref="photo"/>
+    <file name="headshot2197x295.jpg" crc="3833430309" seo="true" ref="photo"/>
+    <file name="headshot2197x295_2x.jpg" crc="3912023250" seo="true" ref="photo"/>
+    <file name="tumblr_o2md4d5imi1v8xo9co2_1280197x295.jpg" crc="3809305835" seo="true" ref="photo"/>
+    <file name="tumblr_o2md4d5imi1v8xo9co2_1280197x295_2x.jpg" crc="4033527715" seo="true" ref="photo"/>
+    <file name="tumblr_o2md4d5imi1v8xo9co3_540240x300.jpg" crc="3904150637" seo="true" ref="photo"/>
+    <file name="tumblr_o2md4d5imi1v8xo9co3_540240x300_2x.jpg" crc="3863207943" seo="true" ref="photo"/>
+    <file name="tumblr_o2md4d5imi1v8xo9co4_1280197x295.jpg" crc="230519254" seo="true" ref="photo"/>
+    <file name="tumblr_o2md4d5imi1v8xo9co4_1280197x295_2x.jpg" crc="286704086" seo="true" ref="photo"/>
+    <file name="tumblr_o2md2kdzh41v8xo9co1_1280442x295.jpg" crc="4104594673" seo="true" ref="photo"/>
+    <file name="tumblr_o2md2kdzh41v8xo9co1_1280442x295_2x.jpg" crc="3925454585" seo="true" ref="photo"/>
+    <file name="tumblr_o2md2kdzh41v8xo9co2_1280196x295.jpg" crc="223675884" seo="true" ref="photo"/>
+    <file name="tumblr_o2md2kdzh41v8xo9co2_1280196x295_2x.jpg" crc="4047044723" seo="true" ref="photo"/>
+    <file name="img_9213197x295.jpg" crc="4005933441" seo="true" ref="photo"/>
+    <file name="img_9213197x295_2x.jpg" crc="395940262" seo="true" ref="photo"/>
+    <file name="tumblr_o2md1jk24r1v8xo9co1_1280442x295.jpg" crc="202393905" seo="true" ref="photo"/>
+    <file name="tumblr_o2md1jk24r1v8xo9co1_1280442x295_2x.jpg" crc="57096873" seo="true" ref="photo"/>
+    <file name="tumblr_o2md1jk24r1v8xo9co2_1280197x295.jpg" crc="243429417" seo="true" ref="photo"/>
+    <file name="tumblr_o2md1jk24r1v8xo9co2_1280197x295_2x.jpg" crc="163543244" seo="true" ref="photo"/>
+    <file name="tumblr_o2mcx2d7gc1v8xo9co1_1280442x295.jpg" crc="529553851" seo="true" ref="photo"/>
+    <file name="tumblr_o2mcx2d7gc1v8xo9co1_1280442x295_2x.jpg" crc="487146492" seo="true" ref="photo"/>
+    <file name="tumblr_o2mcx2d7gc1v8xo9co2_1280197x295.jpg" crc="3765468629" seo="true" ref="photo"/>
+    <file name="tumblr_o2mcx2d7gc1v8xo9co2_1280197x295_2x.jpg" crc="3862859097" seo="true" ref="photo"/>
+    <file name="u16940-17.png" crc="4284112419" ref="contact"/>
+    <file name="u16940-17-r.png" crc="173145748" ref="contact"/>
+    <file name="u16940-17-m.png" crc="157700061" ref="contact"/>
+    <file name="u16940-17-fs.png" crc="4054238086" ref="contact"/>
+    <file name="u16940-17_2x.png" crc="346233525" ref="contact"/>
+    <file name="u16940-17-r_2x.png" crc="500004425" ref="contact"/>
+    <file name="u16940-17-m_2x.png" crc="4058860354" ref="contact"/>
+    <file name="u16940-17-fs_2x.png" crc="133270418" ref="contact"/>
+    <file name="u16940-172.png" crc="4284112419" ref="contact"/>
+    <file name="u16940-17-r2.png" crc="173145748" ref="contact"/>
+    <file name="u16940-17-m2.png" crc="157700061" ref="contact"/>
+    <file name="u16940-17-fs2.png" crc="4054238086" ref="contact"/>
+    <file name="u16940-17_2x2.png" crc="346233525" ref="contact"/>
+    <file name="u16940-17-r_2x2.png" crc="500004425" ref="contact"/>
+    <file name="u16940-17-m_2x2.png" crc="4058860354" ref="contact"/>
+    <file name="u16940-17-fs_2x2.png" crc="133270418" ref="contact"/>
+    <file name="u16940-173.png" crc="4284112419" ref="contact"/>
+    <file name="u16940-17-r3.png" crc="173145748" ref="contact"/>
+    <file name="u16940-17-m3.png" crc="157700061" ref="contact"/>
+    <file name="u16940-17-fs3.png" crc="4054238086" ref="contact"/>
+    <file name="u16940-17_2x3.png" crc="346233525" ref="contact"/>
+    <file name="u16940-17-r_2x3.png" crc="500004425" ref="contact"/>
+    <file name="u16940-17-m_2x3.png" crc="4058860354" ref="contact"/>
+    <file name="u16940-17-fs_2x3.png" crc="133270418" ref="contact"/>
+    <file name="accepted student shabbat.jpg" crc="4090176477" seo="true" ref="design"/>
+    <file name="accepted student shabbat_2x.jpg" crc="535483027" seo="true" ref="design"/>
+    <file name="freshfest poster 2-01.jpg" crc="4269370569" seo="true" ref="design"/>
+    <file name="freshfest poster 2-01_2x.jpg" crc="127722556" seo="true" ref="design"/>
+    <file name="front.jpg" crc="42560508" seo="true" ref="design"/>
+    <file name="front_2x.jpg" crc="515605192" seo="true" ref="design"/>
+    <file name="passover inside.jpg" crc="400759169" seo="true" ref="design"/>
+    <file name="passover inside_2x.jpg" crc="144920740" seo="true" ref="design"/>
+    <file name="tumblr_o2me3m4ulw1v8xo9co1_1280.jpg" crc="224508343" seo="true" ref="design"/>
+    <file name="tumblr_o2me3m4ulw1v8xo9co1_1280_2x.jpg" crc="3938045348" seo="true" ref="design"/>
+    <file name="tumblr_o2me3m4ulw1v8xo9co2_1280.jpg" crc="163997696" seo="true" ref="design"/>
+    <file name="tumblr_o2me3m4ulw1v8xo9co2_1280_2x.jpg" crc="482428037" seo="true" ref="design"/>
+    <file name="tumblr_o2me6ffz951v8xo9co1_1280.jpg" crc="519173577" seo="true" ref="design"/>
+    <file name="tumblr_o2me6ffz951v8xo9co1_1280_2x.jpg" crc="3887979988" seo="true" ref="design"/>
+    <file name="tumblr_o2me6ffz951v8xo9co2_1280.jpg" crc="81883143" seo="true" ref="design"/>
+    <file name="tumblr_o2me6ffz951v8xo9co2_1280_2x.jpg" crc="3776047335" seo="true" ref="design"/>
+    <file name="tumblr_o2mfsqhfpq1v8xo9co1_1280.jpg" crc="244630684" seo="true" ref="design"/>
+    <file name="tumblr_o2mfsqhfpq1v8xo9co1_1280_2x.jpg" crc="3795719351" seo="true" ref="design"/>
+    <file name="tumblr_o2mfsqhfpq1v8xo9co2_1280.jpg" crc="4162129745" seo="true" ref="design"/>
+    <file name="tumblr_o2mfsqhfpq1v8xo9co2_1280_2x.jpg" crc="3841609328" seo="true" ref="design"/>
+    <file name="tumblr_o2mdzlb74q1v8xo9co1_1280.jpg" crc="423336496" seo="true" ref="design"/>
+    <file name="tumblr_o2mdzlb74q1v8xo9co1_1280_2x.jpg" crc="3994972878" seo="true" ref="design"/>
+    <file name="tumblr_o2mdzlb74q1v8xo9co2_1280.jpg" crc="370105331" seo="true" ref="design"/>
+    <file name="tumblr_o2mdzlb74q1v8xo9co2_1280_2x.jpg" crc="422547792" seo="true" ref="design"/>
+    <file name="me136x136.png" crc="4254194047" seo="true" ref="about"/>
+    <file name="me136x136_2x.png" crc="3906612453" seo="true" ref="about"/>
+    <file name="u16940-174.png" crc="4284112419" ref="contact"/>
+    <file name="u16940-17-r4.png" crc="173145748" ref="contact"/>
+    <file name="u16940-17-m4.png" crc="157700061" ref="contact"/>
+    <file name="u16940-17-fs4.png" crc="4054238086" ref="contact"/>
+    <file name="u16940-17_2x4.png" crc="346233525" ref="contact"/>
+    <file name="u16940-17-r_2x4.png" crc="500004425" ref="contact"/>
+    <file name="u16940-17-m_2x4.png" crc="4058860354" ref="contact"/>
+    <file name="u16940-17-fs_2x4.png" crc="133270418" ref="contact"/>
+  </folder>
+  <file name="index.html" crc="452433696" seo="true" mt="1468882565357" redirect="true"/>
+  <file name="about.html" crc="4129562172" seo="true" mt="1460346791253" redirect="true"/>
+  <file name="photo.html" crc="390123580" seo="true" mt="1460346791253" redirect="true"/>
+  <file name="video.html" crc="293039812" seo="true" mt="1460346791253" redirect="true"/>
+  <file name="contact.html" crc="496684866" seo="true" mt="1460347441379" redirect="true"/>
+  <file name="design.html" crc="4184226155" seo="true" mt="1461185268914" redirect="true"/>
+  <site>
+    <asset filename="untitled-3.png" muse_href="upload:U21094"/>
+    <asset filename="small.png" muse_href="upload:U21096"/>
+    <asset filename="small2.png" muse_href="upload:U21098"/>
+    <asset filename="100.png" muse_href="upload:U21100"/>
+  </site>
+  <renditions>
+    <rendition device="desktop">
+      <page name="Home" filename="index.html" muse_href="page:U93" master="U62">
+        <breakpoint uid="U2576" maxwidth="563" minwidth="0" squishy="true"/>
+        <breakpoint uid="U20860" maxwidth="768" minwidth="564" squishy="true"/>
+        <breakpoint uid="U2143" maxwidth="1000" minwidth="769" squishy="true"/>
+        <breakpoint uid="U83" maxwidth="1280" minwidth="1001" squishy="true"/>
+      </page>
+      <masterPage name="None" master="null" uid="U62">
+        <breakpoint uid="U63" maxwidth="1280" minwidth="0" squishy="true"/>
+      </masterPage>
+      <page name="ABOUT" filename="about.html" muse_href="page:U417" master="U72">
+        <breakpoint uid="U9705" maxwidth="470" minwidth="0" squishy="true"/>
+        <breakpoint uid="U9695" maxwidth="768" minwidth="471" squishy="true"/>
+        <breakpoint uid="U407" maxwidth="1280" minwidth="769" squishy="true"/>
+      </page>
+      <masterPage name="A-Master" master="U62" uid="U72">
+        <breakpoint uid="U5999" maxwidth="470" minwidth="0" squishy="true"/>
+        <breakpoint uid="U4757" maxwidth="768" minwidth="471" squishy="true"/>
+        <breakpoint uid="U73" maxwidth="1280" minwidth="769" squishy="true"/>
+      </masterPage>
+      <page name="PHOTO" filename="photo.html" muse_href="page:U450" master="U72">
+        <breakpoint uid="U7713" maxwidth="470" minwidth="0" squishy="true"/>
+        <breakpoint uid="U5174" maxwidth="768" minwidth="471" squishy="true"/>
+        <breakpoint uid="U440" maxwidth="1280" minwidth="769" squishy="true"/>
+      </page>
+      <page name="VIDEO" filename="video.html" muse_href="page:U483" master="U72">
+        <breakpoint uid="U8669" maxwidth="470" minwidth="0" squishy="true"/>
+        <breakpoint uid="U8661" maxwidth="768" minwidth="471" squishy="true"/>
+        <breakpoint uid="U473" maxwidth="1280" minwidth="769" squishy="true"/>
+      </page>
+      <page name="CONTACT" filename="contact.html" muse_href="page:U2768" master="U72">
+        <breakpoint uid="U19202" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U17056" maxwidth="470" minwidth="321" squishy="true"/>
+        <breakpoint uid="U17033" maxwidth="768" minwidth="471" squishy="true"/>
+        <breakpoint uid="U2752" maxwidth="1280" minwidth="769" squishy="true"/>
+      </page>
+      <page name="DESIGN" filename="design.html" muse_href="page:U11083" master="U72">
+        <breakpoint uid="U12248" maxwidth="470" minwidth="0" squishy="true"/>
+        <breakpoint uid="U12117" maxwidth="768" minwidth="471" squishy="true"/>
+        <breakpoint uid="U11067" maxwidth="1280" minwidth="769" squishy="true"/>
+      </page>
+    </rendition>
+  </renditions>
+</manifest>
